@@ -1,0 +1,15 @@
+D:\Cs_Project\PLC\PLC_Basic\PLC_Basic\bin\Debug\PLC_Basic.exe
+D:\Cs_Project\PLC\PLC_Basic\PLC_Basic\bin\Debug\PLC_Basic.pdb
+D:\Cs_Project\PLC\PLC_Basic\PLC_Basic\obj\Debug\PLC_Basic.csprojResolveAssemblyReference.cache
+D:\Cs_Project\PLC\PLC_Basic\PLC_Basic\obj\Debug\PLC_Basic.fMain.resources
+D:\Cs_Project\PLC\PLC_Basic\PLC_Basic\obj\Debug\PLC_Basic.Properties.Resources.resources
+D:\Cs_Project\PLC\PLC_Basic\PLC_Basic\obj\Debug\PLC_Basic.csproj.GenerateResource.Cache
+D:\Cs_Project\PLC\PLC_Basic\PLC_Basic\obj\Debug\PLC_Basic.exe
+D:\Cs_Project\PLC\PLC_Basic\PLC_Basic\obj\Debug\PLC_Basic.pdb
+D:\Cs_Project\PLC\PLC_Basic\obj\Debug\PLC_Basic.exe
+D:\Cs_Project\PLC\PLC_Basic\obj\Debug\PLC_Basic.pdb
+D:\Cs_Project\PLC\PLC_Basic\bin\Debug\PLC_Basic.exe
+D:\Cs_Project\PLC\PLC_Basic\bin\Debug\PLC_Basic.pdb
+D:\Cs_Project\PLC\PLC_Basic\obj\Debug\PLC_Basic.fMain.resources
+D:\Cs_Project\PLC\PLC_Basic\obj\Debug\PLC_Basic.Properties.Resources.resources
+D:\Cs_Project\PLC\PLC_Basic\obj\Debug\PLC_Basic.csproj.GenerateResource.Cache
